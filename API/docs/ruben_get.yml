@@ -1,0 +1,11 @@
+tags:
+  - name: Ruben Setiawan - DSC-W15-0027
+get:
+  description: Challange to Create API for Cleansing Input Text and File Tweets
+responses:
+    '200':
+      description: Successful response
+    '400':
+      description: Bad Request
+    '500':
+      description: Internal Server Error
